@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28534ecb-63c7-438e-9d8c-71cb33d2ea7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/request/GitAuthentification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/request/HeadRequestJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/request/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/request/ImageDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/request/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/ch-robinson.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/deutsche-borse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/hero-octocats.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/nasa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/offering-api-training.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/offering-expert-hackathons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/offering-git-training.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/offering-github-metrics.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/offering-implementation.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/offering-learning-lab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/offering-migration.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/offering-org-checkup.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/offering-workflow.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/qualcomm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/societe-generale.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/spotify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/ch-robinson.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/deutsche-borse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/hero-octocats.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/nasa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/offering-api-training.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/offering-expert-hackathons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/offering-git-training.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/offering-github-metrics.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/offering-implementation.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/offering-learning-lab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/offering-migration.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/offering-org-checkup.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/offering-workflow.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/qualcomm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/societe-generale.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/spotify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/request/GitAuthentification$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/request/GitAuthentification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/request/HeadRequestJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/request/ImageDownloader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/request/Main.class" beforeDir="false" />
-    </list>
+    <list default="true" id="28534ecb-63c7-438e-9d8c-71cb33d2ea7c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +101,7 @@
       <workItem from="1652728972898" duration="60000" />
       <workItem from="1652779362254" duration="4370000" />
       <workItem from="1652786105643" duration="2054000" />
+      <workItem from="1652790000968" duration="261000" />
     </task>
     <servers />
   </component>
